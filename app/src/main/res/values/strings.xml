@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">dota_2</string>
+
+    <!--Главный баннер -->
+    <string name="main_banner">Баннер doTa 2</string>
+    <string name="logo">Логотип</string>
+    <string name="back_arrow">Стрелка назад</string>
+    <string name="menu_button">Кнопка меню</string>
+
+    <!-- Общий контент -->
+    <string name="description_game">Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the "Ancient", whilst defending their own.</string>
+    <string name="screen_shot">Скриншот</string>
+    <string name="avatar">Аватар</string>
+</resources>
